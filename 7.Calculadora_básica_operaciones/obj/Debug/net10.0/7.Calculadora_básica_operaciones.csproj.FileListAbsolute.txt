@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\bin\Debug\net10.0\7.Calculadora_básica_operaciones.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\bin\Debug\net10.0\7.Calculadora_básica_operaciones.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\bin\Debug\net10.0\7.Calculadora_básica_operaciones.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\bin\Debug\net10.0\7.Calculadora_básica_operaciones.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\bin\Debug\net10.0\7.Calculadora_básica_operaciones.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\obj\Debug\net10.0\7.Calculadora_básica_operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\obj\Debug\net10.0\7.Calculadora_básica_operaciones.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\obj\Debug\net10.0\7.Calculadora_básica_operaciones.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\obj\Debug\net10.0\7.Calculadora_básica_operaciones.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\obj\Debug\net10.0\7.Calculadora_básica_operaciones.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\obj\Debug\net10.0\refint\7.Calculadora_básica_operaciones.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\obj\Debug\net10.0\7.Calculadora_básica_operaciones.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\obj\Debug\net10.0\7.Calculadora_básica_operaciones.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\7.Calculadora_básica_operaciones\obj\Debug\net10.0\ref\7.Calculadora_básica_operaciones.dll

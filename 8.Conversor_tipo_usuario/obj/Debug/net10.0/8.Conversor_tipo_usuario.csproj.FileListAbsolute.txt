@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\bin\Debug\net10.0\8.Conversor_tipo_usuario.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\bin\Debug\net10.0\8.Conversor_tipo_usuario.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\bin\Debug\net10.0\8.Conversor_tipo_usuario.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\bin\Debug\net10.0\8.Conversor_tipo_usuario.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\bin\Debug\net10.0\8.Conversor_tipo_usuario.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\obj\Debug\net10.0\8.Conversor_tipo_usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\obj\Debug\net10.0\8.Conversor_tipo_usuario.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\obj\Debug\net10.0\8.Conversor_tipo_usuario.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\obj\Debug\net10.0\8.Conversor_tipo_usuario.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\obj\Debug\net10.0\8.Conversor_tipo_usuario.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\obj\Debug\net10.0\refint\8.Conversor_tipo_usuario.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\obj\Debug\net10.0\8.Conversor_tipo_usuario.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\obj\Debug\net10.0\8.Conversor_tipo_usuario.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\8.Conversor_tipo_usuario\obj\Debug\net10.0\ref\8.Conversor_tipo_usuario.dll

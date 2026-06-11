@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\bin\Debug\net10.0\9.Dispensador_automático_bebidas.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\bin\Debug\net10.0\9.Dispensador_automático_bebidas.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\bin\Debug\net10.0\9.Dispensador_automático_bebidas.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\bin\Debug\net10.0\9.Dispensador_automático_bebidas.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\bin\Debug\net10.0\9.Dispensador_automático_bebidas.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\obj\Debug\net10.0\9.Dispensador_automático_bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\obj\Debug\net10.0\9.Dispensador_automático_bebidas.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\obj\Debug\net10.0\9.Dispensador_automático_bebidas.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\obj\Debug\net10.0\9.Dispensador_automático_bebidas.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\obj\Debug\net10.0\9.Dispensador_automático_bebidas.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\obj\Debug\net10.0\refint\9.Dispensador_automático_bebidas.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\obj\Debug\net10.0\9.Dispensador_automático_bebidas.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\obj\Debug\net10.0\9.Dispensador_automático_bebidas.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\9.Dispensador_automático_bebidas\obj\Debug\net10.0\ref\9.Dispensador_automático_bebidas.dll

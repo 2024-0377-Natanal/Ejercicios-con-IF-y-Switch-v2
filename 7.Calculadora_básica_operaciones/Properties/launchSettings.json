@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "7.Calculadora_básica_operaciones": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "8.Conversor_tipo_usuario": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

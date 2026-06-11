@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6kOOL81mlSc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n\\Desktop\\1-Programacion de aplicaciones\\clase\\8.Conversor_tipo_usuario\\8.Conversor_tipo_usuario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
