@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\bin\Debug\net10.0\5.Clasificador_temperatura.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\bin\Debug\net10.0\5.Clasificador_temperatura.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\bin\Debug\net10.0\5.Clasificador_temperatura.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\bin\Debug\net10.0\5.Clasificador_temperatura.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\bin\Debug\net10.0\5.Clasificador_temperatura.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\obj\Debug\net10.0\5.Clasificador_temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\obj\Debug\net10.0\5.Clasificador_temperatura.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\obj\Debug\net10.0\5.Clasificador_temperatura.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\obj\Debug\net10.0\5.Clasificador_temperatura.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\obj\Debug\net10.0\5.Clasificador_temperatura.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\obj\Debug\net10.0\refint\5.Clasificador_temperatura.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\obj\Debug\net10.0\5.Clasificador_temperatura.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\obj\Debug\net10.0\5.Clasificador_temperatura.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\5.Clasificador_temperatura\obj\Debug\net10.0\ref\5.Clasificador_temperatura.dll

@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\bin\Debug\net10.0\6. Selector_días_emana.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\bin\Debug\net10.0\6. Selector_días_emana.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\bin\Debug\net10.0\6. Selector_días_emana.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\bin\Debug\net10.0\6. Selector_días_emana.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\bin\Debug\net10.0\6. Selector_días_emana.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\obj\Debug\net10.0\6. Selector_días_emana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\obj\Debug\net10.0\6. Selector_días_emana.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\obj\Debug\net10.0\6. Selector_días_emana.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\obj\Debug\net10.0\6. Selector_días_emana.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\obj\Debug\net10.0\6. Selector_días_emana.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\obj\Debug\net10.0\refint\6. Selector_días_emana.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\obj\Debug\net10.0\6. Selector_días_emana.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\obj\Debug\net10.0\6. Selector_días_emana.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\6. Selector_días_emana\obj\Debug\net10.0\ref\6. Selector_días_emana.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "6. Selector_días_emana": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

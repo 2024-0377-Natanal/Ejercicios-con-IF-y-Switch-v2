@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bg/jbdqORWk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n\\Desktop\\1-Programacion de aplicaciones\\clase\\5.Clasificador_temperatura\\5.Clasificador_temperatura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

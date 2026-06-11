@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "5.Clasificador_temperatura": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
