@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sistema_calificaciones_escolares/1.0.0": {
+        "runtime": {
+          "Sistema_calificaciones_escolares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema_calificaciones_escolares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

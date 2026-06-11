@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\bin\Debug\net10.0\Sistema_calificaciones_escolares.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\bin\Debug\net10.0\Sistema_calificaciones_escolares.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\bin\Debug\net10.0\Sistema_calificaciones_escolares.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\bin\Debug\net10.0\Sistema_calificaciones_escolares.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\bin\Debug\net10.0\Sistema_calificaciones_escolares.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\obj\Debug\net10.0\Sistema_calificaciones_escolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\obj\Debug\net10.0\Sistema_calificaciones_escolares.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\obj\Debug\net10.0\Sistema_calificaciones_escolares.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\obj\Debug\net10.0\Sistema_calificaciones_escolares.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\obj\Debug\net10.0\Sistema_calificaciones_escolares.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\obj\Debug\net10.0\refint\Sistema_calificaciones_escolares.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\obj\Debug\net10.0\Sistema_calificaciones_escolares.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\obj\Debug\net10.0\Sistema_calificaciones_escolares.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Sistema_calificaciones_escolares\obj\Debug\net10.0\ref\Sistema_calificaciones_escolares.dll

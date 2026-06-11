@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Sistema_calificaciones_escolares": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
