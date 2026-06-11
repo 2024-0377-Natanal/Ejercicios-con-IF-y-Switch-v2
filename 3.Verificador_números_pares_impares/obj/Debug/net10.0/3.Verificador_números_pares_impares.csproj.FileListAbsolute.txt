@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\bin\Debug\net10.0\3.Verificador_números_pares_impares.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\bin\Debug\net10.0\3.Verificador_números_pares_impares.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\bin\Debug\net10.0\3.Verificador_números_pares_impares.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\bin\Debug\net10.0\3.Verificador_números_pares_impares.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\bin\Debug\net10.0\3.Verificador_números_pares_impares.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\obj\Debug\net10.0\3.Verificador_números_pares_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\obj\Debug\net10.0\3.Verificador_números_pares_impares.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\obj\Debug\net10.0\3.Verificador_números_pares_impares.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\obj\Debug\net10.0\3.Verificador_números_pares_impares.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\obj\Debug\net10.0\3.Verificador_números_pares_impares.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\obj\Debug\net10.0\refint\3.Verificador_números_pares_impares.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\obj\Debug\net10.0\3.Verificador_números_pares_impares.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\obj\Debug\net10.0\3.Verificador_números_pares_impares.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\3.Verificador_números_pares_impares\obj\Debug\net10.0\ref\3.Verificador_números_pares_impares.dll
