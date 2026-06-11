@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\bin\Debug\net10.0\1.Control_acceso_edad.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\bin\Debug\net10.0\1.Control_acceso_edad.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\bin\Debug\net10.0\1.Control_acceso_edad.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\bin\Debug\net10.0\1.Control_acceso_edad.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\bin\Debug\net10.0\1.Control_acceso_edad.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\obj\Debug\net10.0\1.Control_acceso_edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\obj\Debug\net10.0\1.Control_acceso_edad.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\obj\Debug\net10.0\1.Control_acceso_edad.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\obj\Debug\net10.0\1.Control_acceso_edad.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\obj\Debug\net10.0\1.Control_acceso_edad.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\obj\Debug\net10.0\refint\1.Control_acceso_edad.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\obj\Debug\net10.0\1.Control_acceso_edad.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\obj\Debug\net10.0\1.Control_acceso_edad.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\1.Control_acceso_edad\obj\Debug\net10.0\ref\1.Control_acceso_edad.dll

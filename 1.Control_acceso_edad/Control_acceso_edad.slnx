@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Sistema_calificaciones_ escolares/Sistema_calificaciones_ escolares.csproj" />
+  <Project Path="Control_acceso_edad.csproj" />
+</Solution>
