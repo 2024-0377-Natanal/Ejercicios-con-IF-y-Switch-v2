@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "4.Simulador_cajero_automático": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

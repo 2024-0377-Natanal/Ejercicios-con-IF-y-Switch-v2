@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "4.Simulador_cajero_automático/1.0.0": {
+        "runtime": {
+          "4.Simulador_cajero_automático.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4.Simulador_cajero_automático/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

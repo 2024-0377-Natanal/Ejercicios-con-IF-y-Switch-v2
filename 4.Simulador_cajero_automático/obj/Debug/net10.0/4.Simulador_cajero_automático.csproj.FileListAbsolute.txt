@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\bin\Debug\net10.0\4.Simulador_cajero_automático.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\bin\Debug\net10.0\4.Simulador_cajero_automático.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\bin\Debug\net10.0\4.Simulador_cajero_automático.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\bin\Debug\net10.0\4.Simulador_cajero_automático.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\bin\Debug\net10.0\4.Simulador_cajero_automático.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\obj\Debug\net10.0\4.Simulador_cajero_automático.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\obj\Debug\net10.0\4.Simulador_cajero_automático.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\obj\Debug\net10.0\4.Simulador_cajero_automático.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\obj\Debug\net10.0\4.Simulador_cajero_automático.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\obj\Debug\net10.0\4.Simulador_cajero_automático.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\obj\Debug\net10.0\refint\4.Simulador_cajero_automático.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\obj\Debug\net10.0\4.Simulador_cajero_automático.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\obj\Debug\net10.0\4.Simulador_cajero_automático.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\4.Simulador_cajero_automático\obj\Debug\net10.0\ref\4.Simulador_cajero_automático.dll
