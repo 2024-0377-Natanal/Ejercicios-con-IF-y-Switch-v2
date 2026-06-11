@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "3.Verificador_números_pares_impares": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
